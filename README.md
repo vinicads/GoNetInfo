@@ -47,7 +47,3 @@ Caso não seja informado um `--host`, o padrão será `google.com.br`.
 ## Autor
 
 Projeto desenvolvido seguindo um curso de Go pelo Otávio Augusto Gallego.
-
-## Nome Sugerido para o Projeto
-
-**GoNetInfo**
